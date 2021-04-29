@@ -5,4 +5,5 @@ def add(a,b):
 def subtract(a,b):
     return a-b
 
-#테스트용
+def multiply(a,b):
+    return a*b
